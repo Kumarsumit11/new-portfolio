@@ -1,0 +1,10 @@
+{
+  "description": "Create stunning hero sections and navigation bars effortlessly with customizable templates, perfect for web designers and developers seeking efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
