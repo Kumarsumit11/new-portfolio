@@ -1,6 +1,8 @@
 import { useState, useEffect, useRef } from 'react'
 
-const PORTRAIT = '/image.png'
+import portrait from './assets/image.png'
+
+const PORTRAIT = portrait
 
 const NAV_LINKS = ['ABOUT', 'WORK', 'EXPERIENCE', 'STACK', 'CONTACT']
 
