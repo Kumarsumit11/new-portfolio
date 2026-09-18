@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
 
-import portrait from './assets/image-NEW.png'
+import portrait from './assets/sumit.png'
 
 const PORTRAIT = portrait
 
